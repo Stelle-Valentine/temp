@@ -1065,13 +1065,6 @@ body,button,input,select,textarea,::placeholder{
     font-weight:700;
     transition:all .5s ease-in-out
 }
-.theme-dark .container-YkUktl:after{
-    content:"v6.3.0";
-    left:50%;
-    text-align:left;
-    opacity:0;
-    transform:translateX(50%) rotateX(90deg)
-}
 .theme-dark .container-YkUktl:hover:before{
     margin-right:1px;
     transform:none
