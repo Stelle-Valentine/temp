@@ -1,1 +1,7 @@
 
+.theme-dark .container-YkUktl:before{
+    content:"";
+    right:50%;
+    text-align:right;
+    transform:translateX(50%)
+}
