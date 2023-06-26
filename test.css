@@ -1035,80 +1035,6 @@ body,button,input,select,textarea,::placeholder{
     background:rgba(255,255,255,.95);
     color:var(--hover-color)
 }
-.theme-dark .container-YkUktl{
-    position:relative;
-    background:rgba(0,0,0,0);
-    margin-bottom:10px
-}
-.theme-dark .container-YkUktl:before,.theme-dark .container-YkUktl:after{
-    bottom:-8px;
-    position:absolute;
-    color:rgba(255,255,255,.3);
-    font-size:11px;
-    font-weight:700;
-    transition:all .5s ease-in-out
-}
-.theme-dark .container-YkUktl:hover:before{
-    margin-right:1px;
-    transform:none
-}
-.theme-dark .container-YkUktl:hover:after{
-    margin-left:1px;
-    opacity:1;
-    transform:none
-}
-.theme-dark .container-YkUktl .withTagAsButton-OsgQ9L,.theme-dark .container-YkUktl .withTagless-10ooWt{
-    min-width:calc(100% - 100px);
-    width:auto
-}
-.theme-dark .container-YkUktl .withTagAsButton-OsgQ9L:hover,.theme-dark .container-YkUktl .withTagless-10ooWt:hover{
-    background-color:rgba(0,0,0,.3);
-    color:#fff
-}
-.theme-dark .container-YkUktl .avatar-1EWyVD{
-    width:32px !important;
-    height:32px !important;
-    transition:all .15s ease-in-out
-}
-.theme-dark .container-YkUktl .avatar-1EWyVD:after{
-    content:"Status";
-    position:absolute;
-    top:0;
-    right:0;
-    bottom:0;
-    left:0;
-    color:#fff;
-    font-size:5px;
-    font-weight:700;
-    text-align:center;
-    line-height:32px;
-    text-transform:uppercase;
-    opacity:0;
-    transition:all .15s ease-in-out;
-    pointer-events:none
-}
-.theme-dark .container-YkUktl .avatar-1EWyVD foreignObject{
-    transition:all .15s ease-in-out
-}
-.theme-dark .container-YkUktl .avatar-1EWyVD:hover{
-    width:40px !important;
-    height:40px !important;
-    opacity:1
-}
-.theme-dark .container-YkUktl .avatar-1EWyVD:hover:after{
-    font-size:10px;
-    line-height:40px;
-    opacity:1
-}
-.theme-dark .container-YkUktl .avatar-1EWyVD:hover foreignObject{
-    opacity:.5
-}
-.theme-dark .container-YkUktl .title-338goq{
-    color:#fff
-}
-.theme-dark .container-YkUktl .subtext-2HDqJ7{
-    color:rgba(255,255,255,.3)
-}
 .container-1zzFcN{
     border-color:rgba(0,0,0,0);
     background:rgba(0,0,0,0)
@@ -8247,9 +8173,6 @@ code{
 }
 .members-3WRCEx>#MemberCount+.membersGroup-2eiWxl{
     margin-top:-10px
-}
-.sidebar-2K8pFh.hideElement .container-YkUktl{
-    background:rgba(0,0,0,0)
 }
 .BE-badge{
     filter:drop-shadow(0 0 3px rgba(0, 0, 0, 0.7))
