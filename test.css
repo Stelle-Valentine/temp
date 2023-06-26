@@ -999,23 +999,6 @@ body,button,input,select,textarea,::placeholder{
 .theme-dark .panel-2ZFCRb{
     background-color:rgba(0,0,0,0)
 }
-.container-YkUktl>.flex-3BkGQD{
-    background:rgba(0,0,0,.3);
-    border-radius:15px
-}
-.container-YkUktl>.flex-3BkGQD>:nth-child(n+2){
-    position:relative;
-    margin-left:-1px
-}
-.container-YkUktl>.flex-3BkGQD>:nth-child(n+2):before{
-    content:"";
-    position:absolute;
-    left:0;
-    top:2px;
-    bottom:2px;
-    width:1px;
-    background:rgba(255,255,255,.2)
-}
 .button-12Fmur{
     width:32px;
     height:32px;
